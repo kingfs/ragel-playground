@@ -1,0 +1,25 @@
+{
+  "Name": "auturora",
+  "Info": [
+    "male",
+    "26",
+    [
+      123,
+      456
+    ],
+    true,
+    false,
+    [null, "test string"]
+  ],
+  "Sub": [
+    {
+      "Name": "Sub1"
+    },
+    {
+      "Name": "Sub2"
+    },
+    {
+      "Name": "Sub3"
+    }
+  ]
+}
